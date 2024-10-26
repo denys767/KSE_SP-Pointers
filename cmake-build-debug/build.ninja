@@ -55,14 +55,8 @@ build CMakeFiles/Pointers.dir/main.cpp.obj: CXX_COMPILER__Pointers_unscanned_Deb
   OBJECT_DIR = CMakeFiles\Pointers.dir
   OBJECT_FILE_DIR = CMakeFiles\Pointers.dir
 
-build CMakeFiles/Pointers.dir/Task_1.cpp.obj: CXX_COMPILER__Pointers_unscanned_Debug C$:/Users/kdeni/OneDrive$ -$ Kyiv$ School$ of$ Economics/Документи/Development/Pointers/Task$ 1.cpp || cmake_object_order_depends_target_Pointers
-  DEP_FILE = CMakeFiles\Pointers.dir\Task_1.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\Pointers.dir
-  OBJECT_FILE_DIR = CMakeFiles\Pointers.dir
-
-build CMakeFiles/Pointers.dir/task1.cpp.obj: CXX_COMPILER__Pointers_unscanned_Debug C$:/Users/kdeni/OneDrive$ -$ Kyiv$ School$ of$ Economics/Документи/Development/Pointers/task1.cpp || cmake_object_order_depends_target_Pointers
-  DEP_FILE = CMakeFiles\Pointers.dir\task1.cpp.obj.d
+build CMakeFiles/Pointers.dir/tasks.cpp.obj: CXX_COMPILER__Pointers_unscanned_Debug C$:/Users/kdeni/OneDrive$ -$ Kyiv$ School$ of$ Economics/Документи/Development/Pointers/tasks.cpp || cmake_object_order_depends_target_Pointers
+  DEP_FILE = CMakeFiles\Pointers.dir\tasks.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Pointers.dir
   OBJECT_FILE_DIR = CMakeFiles\Pointers.dir
@@ -75,7 +69,7 @@ build CMakeFiles/Pointers.dir/task1.cpp.obj: CXX_COMPILER__Pointers_unscanned_De
 #############################################
 # Link the executable Pointers.exe
 
-build Pointers.exe: CXX_EXECUTABLE_LINKER__Pointers_Debug CMakeFiles/Pointers.dir/main.cpp.obj CMakeFiles/Pointers.dir/Task_1.cpp.obj CMakeFiles/Pointers.dir/task1.cpp.obj
+build Pointers.exe: CXX_EXECUTABLE_LINKER__Pointers_Debug CMakeFiles/Pointers.dir/main.cpp.obj CMakeFiles/Pointers.dir/tasks.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Pointers.dir
