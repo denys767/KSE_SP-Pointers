@@ -3,5 +3,4 @@ project(Pointers)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Pointers main.cpp
-        tasks.cpp)
+add_executable(Pointers main.cpp)

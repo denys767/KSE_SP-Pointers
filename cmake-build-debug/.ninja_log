@@ -1,4 +1,11 @@
 # ninja log v6
-2	259	7514867792814769	CMakeFiles/Pointers.dir/main.cpp.obj	a3fd4c5579994a9b
+8	269	7516625694901845	CMakeFiles/Pointers.dir/main.cpp.obj	a3fd4c5579994a9b
 5	267	7514867792854746	CMakeFiles/Pointers.dir/Task_1.cpp.obj	37f046bc5bba29d8
-268	344	7514867795476546	Pointers.exe	a2674152c6eded92
+252	311	7516625602799160	Pointers.exe	d7251507cba4c3d8
+11	295	7516625017114540	CMakeFiles/Pointers.dir/tasks.cpp.obj	dd4bb1c721888e57
+6	218	7516626040977241	build.ninja	f3ae28294097e4f4
+14	69	7516626041534206	Pointers.exe	d387d7c8a8041cf5
+4	270	7516626185018262	CMakeFiles/Pointers.dir/main.cpp.obj	a3fd4c5579994a9b
+271	327	7516626187688892	Pointers.exe	d387d7c8a8041cf5
+8	279	7516629605765312	CMakeFiles/Pointers.dir/main.cpp.obj	a3fd4c5579994a9b
+280	342	7516629608481550	Pointers.exe	d387d7c8a8041cf5
